@@ -1,37 +1,19 @@
 # books
 
-#### 介绍
-图书推荐专用参考
+## 介绍
+图书推荐专用仓库
 
-#### 软件架构
-软件架构说明
+## 推荐列表
+1. 《Head First 设计模式》（美）弗里曼（Freeman，E.）,这是一本非常优秀的设计模式入门书籍。本书的编写方式采用引导式教学，不直接告诉你该怎么做，而是利用故事当作引子，带领读者思考并想办法解决问题。
 
-
-#### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+2. 《设计模式：可复用面向对象软件的基础》（Erich Gamma、Richard Helm、Ralph Johnson 和 John Vlissides）- 这本书通常被称为“四人帮”(Gang of Four)，是设计模式领域的经典之作，讲解了23种设计模式的原理和实现方式。
+3. 《敏捷软件开发：原则、模式与实践》（Robert C. Martin）- 这本书介绍了如何将敏捷思想应用到软件开发中，并且通过大量的案例分析和实践经验，阐述了如何使用面向对象的设计原则和模式创建高质量的软件系统。
+4. 《重构：改善既有代码的设计》（Martin Fowler）- 这本书详细讲解了如何对现有程序进行重构，以便使其更易于理解、扩展和维护。该书也涉及了许多常见的重构技术和模式。
+5. 《企业应用架构模式》（Martin Fowler）- 该书系统地介绍了企业应用程序中常见的架构模式，例如层次结构、MVC、DAO等，以及如何在这些模式之间进行权衡和选择
 
 
-#### 特技
+## 交流学习
+关注微信公众号：码递夫，获取上百本编程电子书。
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+<img src="http://img.hongniangyun.net/wx/p1.jpg" width="300"/><br>
+
